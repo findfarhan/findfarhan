@@ -8,7 +8,14 @@ I also have experience with 🤖 machine learning and AI frameworks such as NumP
 
 🚀 My goal is to build high-quality, scalable, and maintainable applications that integrate machine learning and AI to provide intelligent solutions for clients. I follow best practices and standards for software development to ensure that my applications are of the highest quality.
 
-What I can do:
+🖥️ Checkout my (Upwork Profile"https://www.upwork.com/freelancers/~01db8ace83de24616c").
+
+
+ 
+#Skills
+
+
+<!-- What I can do:
 
 - Develop web applications using Python frameworks like Django and Flask
 
@@ -17,7 +24,7 @@ What I can do:
 - Implement machine learning models using frameworks like NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV and NLTK.
                  
 Follow best practices and standards for software development to produce elegant, efficient, and effective solutions
-
+ -->
 How to reach me:
 
 📧 You can reach out to me at [your email address] or via [LinkedIn/Twitter/other social media handle] if you have any questions or would like to discuss a potential project.
