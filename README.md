@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi, I'm Farhan 👋
+👨‍💻 I'm a full-stack Python developer with 2 years of experience using frameworks like Django and Flask. I specialize in both front-end and back-end technologies, including 💻 HTML, 🎨 CSS, 🧰 JavaScript, 🗃️ SQL, and 📊 NoSQL databases. with front-end frameworks like ⚛️ React, 📗 Vue, and 🔺 Angular. 
 
-<!--
-**findfarhan/findfarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also have experience with 🤖 machine learning and AI frameworks such as NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV and NLTK.
 
-Here are some ideas to get you started:
+🚀 My goal is to build high-quality, scalable, and maintainable applications that integrate machine learning and AI to provide intelligent solutions for clients. I follow best practices and standards for software development to ensure that my applications are of the highest quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I can do:
+
+- Develop web applications using Python frameworks like Django and Flask
+
+- Build dynamic and responsive user interfaces using front-end frameworks like React, Vue, and Angular
+
+- Implement machine learning models using frameworks like NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV and NLTK.
+                 
+Follow best practices and standards for software development to produce elegant, efficient, and effective solutions
+
+How to reach me:
+
+📧 You can reach out to me at [your email address] or via [LinkedIn/Twitter/other social media handle] if you have any questions or would like to discuss a potential project.
