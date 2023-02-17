@@ -1,5 +1,8 @@
 Hi, I'm Farhan 👋
-👨‍💻 I'm a full-stack Python developer with 2 years of experience using frameworks like Django and Flask. I specialize in both front-end and back-end technologies, including 💻 HTML, 🎨 CSS, 🧰 JavaScript, 🗃️ SQL, and 📊 NoSQL databases. with front-end frameworks like ⚛️ React, 📗 Vue, and 🔺 Angular. 
+
+A Full-Stack Python Developer 
+
+I have 3 years of experience using frameworks like Django and Flask. I specialize in both front-end and back-end technologies, including 💻 HTML, 🎨 CSS, 🧰 JavaScript, 🗃️ SQL, and 📊 NoSQL databases. with front-end frameworks like ⚛️ React, 📗 Vue, and 🔺 Angular. 
 
 I also have experience with 🤖 machine learning and AI frameworks such as NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV and NLTK.
 
