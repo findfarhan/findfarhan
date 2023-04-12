@@ -22,5 +22,3 @@ What I can do:
                  
 Follow best practices and standards for software development to produce elegant, efficient, and effective solutions
 
-How to reach me:
-📧 You can reach out to me at [your email address] or via [LinkedIn/Twitter/other social media handle] if you have any questions or would like to discuss a potential project.
