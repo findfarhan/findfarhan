@@ -1,4 +1,6 @@
-👋 Hi there! I'm Farhan Ali, a Full Stack Developer with 4 years of experience. I specialize in both front-end and back-end technologies, including JavaScript, HTML5, CSS3, React, Node.js, PostgreSQL, and MongoDB.
+👋 Hi there! I'm Farhan Ali, 
+
+A Full Stack Developer with 4 years of experience. I specialize in both front-end and back-end technologies, including JavaScript, HTML5, CSS3, React, Node.js, PostgreSQL, and MongoDB.
 
 ### 🌟 Expertise
 My expertise lies in developing web applications using JavaScript frameworks like React and Node.js. I have a strong command of front-end technologies such as HTML5, CSS3, and JavaScript, allowing me to build dynamic and responsive user interfaces.
