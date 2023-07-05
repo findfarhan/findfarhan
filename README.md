@@ -23,6 +23,6 @@ MongoDB
 I have 4 years of experience working as a Full Stack Developer, where I have successfully delivered various web applications using the technologies mentioned above. I am well-versed in both relational databases like PostgreSQL and NoSQL databases like MongoDB, enabling me to handle data storage and management efficiently.
 
 💼 Portfolio
-Feel free to Check out my [Upwork profile](https://www.upwork.com/farhan-ali) to learn more about my work and explore some of the projects I have completed.
+Feel free to Check out my [Upwork profile]([https://www.upwork.com/farhan-ali](https://www.upwork.com/freelancers/~01db8ace83de24616c]) to learn more about my work and explore some of the projects I have completed.
 
 Let's collaborate and create remarkable web applications together, leveraging the power of React, Node.js, JavaScript, HTML, CSS, PostgreSQL, and MongoDB!
