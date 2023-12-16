@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">A Full Stack Developer with 4 years of experience. I specialize in both front-end and back-end technologies, including JavaScript, HTML5, CSS3, React, Node.js, PostgreSQL, and MongoDB.</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
-### Expertise
-My expertise lies in developing web applications using JavaScript frameworks like React and Node.js. I have a strong command of front-end technologies such as HTML5, CSS3, and JavaScript, allowing me to build dynamic and responsive user interfaces.
-
+As a full stack developer, I possess a thorough grasp of the entire web development workflow, encompassing both the user interface and server-side logic. My expertise spans various front-end and back-end technologies, enabling me to create, code, and manage web applications throughout their entire lifecycle.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,9 +11,12 @@ My expertise lies in developing web applications using JavaScript frameworks lik
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/findfarhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/findfarhan/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/findfarhan/" target="blank"><img align="center" src="https://github.com/findfarhan/findfarhan/assets/121566896/d5f7a3dd-e8e9-43c8-af19-09b6036c8786" alt="https://www.linkedin.com/in/findfarhan/" height="32" width="32" /></a>  <a href="https://www.upwork.com/freelancers/~01db8ace83de24616c" target="blank"><img align="center" src="https://github.com/findfarhan/findfarhan/assets/121566896/eeb3db21-257b-483e-a8b0-97df87e169a9" alt="https://www.upwork.com/freelancers/~01db8ace83de24616c" height="32" width="32" /></a>  <a href="https://www.farhanali.dev" target="blank"><img align="center" src="https://github.com/findfarhan/findfarhan/assets/121566896/82dfb423-76da-486e-80d9-1cf0ccd18f51" alt="[https://www.linkedin.com/in/findfarhan/](https://www.farhanali.dev)" height="32" width="32" /></a>  
 
 ### GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=findfarhan&theme=dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=findfarhan&theme=dark)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=findfarhan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+
+
+
