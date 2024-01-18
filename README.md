@@ -15,8 +15,4 @@ As a full stack developer, I possess a thorough grasp of the entire web developm
 
 ### GitHub Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=findfarhan&theme=dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=findfarhan&theme=dark)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=findfarhan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=findfarhan&theme=dark) 
