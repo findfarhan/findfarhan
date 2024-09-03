@@ -11,7 +11,7 @@ As a full stack developer, I possess a thorough grasp of the entire web developm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/findfarhan/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/be9184b2-ad4d-4183-87ba-8dd6da9a269d" alt="https://www.linkedin.com/in/findfarhan/" height="32" width="32" /></a>  <a href="https://www.upwork.com/freelancers/~01db8ace83de24616c" target="blank"><img align="center" src="https://github.com/user-attachments/assets/217fe657-27a4-47b6-a5ed-592e411a0b53" alt="https://www.upwork.com/freelancers/~01db8ace83de24616c" height="32" width="32" /></a>  <a href="https://www.farhanali.dev" target="blank"><img align="center" src="https://github.com/findfarhan/findfarhan/assets/121566896/82dfb423-76da-486e-80d9-1cf0ccd18f51" alt="[https://www.linkedin.com/in/findfarhan/](https://www.farhanali.dev)" height="32" width="32" /></a>  
+<a href="https://www.linkedin.com/in/findfarhan/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/be9184b2-ad4d-4183-87ba-8dd6da9a269d" alt="https://www.linkedin.com/in/findfarhan/" height="32" width="32" /></a>  <a href="https://www.upwork.com/freelancers/~01db8ace83de24616c" target="blank"><img align="center" src="https://github.com/user-attachments/assets/217fe657-27a4-47b6-a5ed-592e411a0b53" alt="https://www.upwork.com/freelancers/~01db8ace83de24616c" height="32" width="32" /></a>  <a href="https://www.farhanali.dev" target="blank"><img align="center" src="https://github.com/user-attachments/assets/de463c46-f6e1-4e58-bf5d-1808de815994" alt="[https://www.linkedin.com/in/findfarhan/](https://www.farhanali.dev)" height="32" width="32" /></a>  
 
 ### GitHub Stats:
 
