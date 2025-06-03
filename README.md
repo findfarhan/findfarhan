@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Farhan</h1>
 <h3 align="center">A Full Stack Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=findfarhan&label=Profile%20views&color=0e75b6&style=flat" alt="findfarhan" /> </p>
 
 As a full stack developer, I possess a thorough grasp of the entire web development workflow, encompassing both the user interface and server-side logic. My expertise spans various front-end and back-end technologies, enabling me to create, code, and manage web applications throughout their entire lifecycle.
 
